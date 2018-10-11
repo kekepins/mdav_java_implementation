@@ -10,5 +10,7 @@ Algo used in anonymisation to compute clusters for micro aggregation
 5. if there is between 3k-1 2k records, compute average
 
    5.1. find most distant xr from average
+   
    5.2. compute a cluster arround xr
+   
 6. remaining point are the last cluster
