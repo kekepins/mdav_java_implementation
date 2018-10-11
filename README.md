@@ -3,6 +3,7 @@ MDAV(Maximum Distance to Average Vector) clustering implementation in java
 
 Algo used in anonymisation to compute clusters for micro aggregation
 
+** Algo **
 1. Compute the average record of all records, find most distant record from average (xr)
 2. Find most distant record xs from xr
 3. Compute 2 clusters around xr and xs (closest points)
@@ -13,4 +14,4 @@ Algo used in anonymisation to compute clusters for micro aggregation
    
    5.2. compute a cluster arround xr
    
-6. remaining point are the last cluster
+6. remaining points are the last cluster
