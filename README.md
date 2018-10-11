@@ -1,4 +1,4 @@
-# mdav_java_implementation
+# MDAV java implementation
 MDAV(Maximum Distance to Average Vector) clustering implementation in java
 
 Algo used in anonymisation to compute clusters for micro aggregation
